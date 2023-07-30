@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+#custom-div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler-p {
+    font-size: 24px;
+}
+
+#custom-div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
